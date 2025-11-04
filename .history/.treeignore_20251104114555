@@ -1,0 +1,6 @@
+# .treeignore
+.history
+.git
+node_modules
+dist
+*.log  # 忽略所有 .log 文件
