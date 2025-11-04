@@ -1,0 +1,17 @@
+# .mddirignore 文件内容（直接复制粘贴）
+# 排除开发工具相关目录
+.history
+.vscode
+.idea
+
+# 排除依赖和构建产物
+node_modules
+dist
+build
+coverage
+
+# 排除版本控制和配置文件（非核心展示内容）
+.git
+.gitignore
+.env
+.env.*
